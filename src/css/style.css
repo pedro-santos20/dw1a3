@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.activities-links-list {
+    list-style: circle;
+}
+
+.activities-links-list li {
+    padding-bottom: 20px;
+}
+
+.activities-links-list a {
+    text-decoration: none;
+    color: #000;
+    transition: color ease-in-out 0.2s;
+}
+
+a:hover {
+    color: #f00;
+}
